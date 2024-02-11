@@ -1,4 +1,5 @@
-👋 Hello, my name is Andrea 
+👋   ![image](https://github.com/AAbella7529/AAbella7529/assets/158771536/437e04d4-2409-4629-bd9b-602c157d14d8)
+      Hello, my name is Andrea 
 
 👀 I’m interested in Cyber Security, Cloud Computing, Python, Linux and SQL. 
 
