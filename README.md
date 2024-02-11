@@ -4,7 +4,7 @@
 
 🌱  I am currently Upskilling / Reskilling in Cyber Security, Linux, and Python. 
 
-💞️  I’m looking to collaborate on Cyber Security using unix bash scripting.
+💞️  I’m looking to collaborate on Cyber Security using bash shell scripting.
 
 📫  To get intouch you can follow me in Discord, this is my username --->   A_Abella2871 
 
