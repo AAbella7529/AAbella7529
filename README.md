@@ -1,7 +1,11 @@
-👋 Hi, I’m @AAbella7529
+👋 Hi, my name is Andrea 
+
 👀 I’m interested in Cyber Security, Cloud Computing, Python, Linux and SQL. 
+
 🌱 I am currently Upskilling / Reskilling in Cyber Security, Linux, and Python. 
+
 💞️ I’m looking to collaborate on Cyber Security using unix bash scripting.
+
 📫 You can reach me on Discord, this is my username  ---->   A_Abella2871 
 
 
