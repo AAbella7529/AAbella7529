@@ -2,9 +2,7 @@
 👀 I’m interested in Cyber Security, Cloud Computing, Python, Linux and SQL. 
 🌱 I am currently Upskilling / Reskilling in Cyber Security, Linux, and Python. 
 💞️ I’m looking to collaborate on Cyber Security using unix bash scripting.
-📫 You can reach me on Discord this is my username:  A_Abella2871 
- 😄 Pronouns: She/Her
- ⚡ Fun fact: I love reading and learning to code, and I am Digital Transformation / IoT / AI Enthusiast
+📫 You can reach me on Discord, this is my username  ---->   A_Abella2871 
 
 
 <!---
