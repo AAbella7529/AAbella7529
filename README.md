@@ -1,13 +1,12 @@
-👋   ![image](https://github.com/AAbella7529/AAbella7529/assets/158771536/437e04d4-2409-4629-bd9b-602c157d14d8)
-      Hello, my name is Andrea 
+👋  Hello, my name is Andrea 
 
-👀 I’m interested in Cyber Security, Cloud Computing, Python, Linux and SQL. 
+👀  I’m interested in Cyber Security, Cloud Computing, Python, Linux and SQL. 
 
-🌱 I am currently Upskilling / Reskilling in Cyber Security, Linux, and Python. 
+🌱  I am currently Upskilling / Reskilling in Cyber Security, Linux, and Python. 
 
-💞️ I’m looking to collaborate on Cyber Security using unix bash scripting.
+💞️  I’m looking to collaborate on Cyber Security using unix bash scripting.
 
-📫 To get intouch you can follow me in Discord, this is my username --->   A_Abella2871 
+📫  To get intouch you can follow me in Discord, this is my username --->   A_Abella2871 
 
 
 <!---
