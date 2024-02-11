@@ -1,4 +1,4 @@
-👋 Hi, my name is Andrea 
+👋 Hello, my name is Andrea 
 
 👀 I’m interested in Cyber Security, Cloud Computing, Python, Linux and SQL. 
 
