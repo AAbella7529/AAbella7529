@@ -8,8 +8,8 @@
 
 📫  To get intouch you can follow me in Discord, this is my username --->   A_Abella2871 
 
+![image](https://github.com/AAbella7529/AAbella7529/assets/158771536/620b0212-dc9e-4261-9da1-aa136a47ceb5)
 
-![image](https://github.com/AAbella7529/AAbella7529/assets/158771536/9343464f-82a4-4e78-8833-b22a5651fa8a)
 
 
 
