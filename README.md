@@ -9,6 +9,10 @@
 📫  To get intouch you can follow me in Discord, this is my username --->   A_Abella2871 
 
 
+![image](https://github.com/AAbella7529/AAbella7529/assets/158771536/91ac212b-1692-4b90-b1d4-7deda2eafee1)
+
+
+
 <!---
 AAbella7529/AAbella7529 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
