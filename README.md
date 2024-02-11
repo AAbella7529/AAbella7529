@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on Cyber Security using unix bash scripting.
 
-📫 You can reach me on Discord, this is my username  ---->   A_Abella2871 
+📫 To get intouch you can follow me in Discord, this is my username for adding me on your Discord --->   A_Abella2871 
 
 
 <!---
