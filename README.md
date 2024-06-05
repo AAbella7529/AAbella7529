@@ -3,7 +3,7 @@
 
 👋  Thanks for following.  
 
-I am a tech and AI enthusiast's currently using Github and Discord for my coding and cyber security course and I am learning new things.
+I am a tech and AI enthusiast's currently upskilling / reskilling in coding, AI and cyber security and I am learning new things.
 
 Looking to transition in AI or Cyber Security and unlock my Tech Career Potential.
 
