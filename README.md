@@ -3,7 +3,7 @@
 
 Thanks for following. 
 
-I am an AI and tech enthusiast's currently using Github and Discord for my coding and cyber security course and I am learning new things.
+I am a tech and AI enthusiast's currently using Github and Discord for my coding and cyber security course and I am learning new things.
 
 My purpose is to gain skills and experience in this field. I enjoy studying and learning. 
 
