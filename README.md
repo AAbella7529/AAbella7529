@@ -13,6 +13,8 @@ My purpose is to gain skills and experience in this field. I enjoy studying and 
 
 I have a keen interest in Cyber Security, Creativity and Web Design.
 
+In my spare time I like to teach and empower learners about Cyber Security and Coding. 
+
 :tada: Looking forward to interact with tech minded people in Github and Discord. 
 
 ![EduRobot](https://github.com/AAbella7529/AAbella7529/assets/158771536/ba2386e3-63aa-4dc7-8115-30c466b448a9)
