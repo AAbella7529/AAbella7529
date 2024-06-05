@@ -9,7 +9,7 @@ Looking to transition in AI or Cyber Security and unlock my Tech Career Potentia
 
 My purpose is to gain skills and experience in this field. I enjoy studying and learning. 
 
-:rocket: To future-proof my IT skills in the Digital Age / Digital Transformation, The Internet of Things and AI - Artificial Intelligence.
+:rocket: To future-proof my IT skills in the Digital Age / Digital Transformation, The Internet of Things and Artificial Intelligence.
 
 For coding I currently used: Python, Linux, Shell Bash Scripting and SQL. 
 
