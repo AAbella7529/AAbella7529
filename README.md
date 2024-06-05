@@ -11,6 +11,8 @@ My purpose is to gain skills and experience in this field. I enjoy studying and 
 
 :rocket: To future-proof my IT skills in the Digital Age / Digital Transformation, The Internet of Things and AI - Artificial Intelligence.
 
+For coding I currently used: Python, Linux, Shell Bash Scripting and SQL. 
+
 I have a keen interest in Cyber Security, Creativity and Web Design.
 
 In my spare time I like to teach and empower learners about Cyber Security and Coding. 
