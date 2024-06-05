@@ -11,6 +11,9 @@ Future-proof my IT skills in the Digital Age / Digital Transformation, The Inter
 
 I have a keen interest in AI, Web Design and Creativity. 
 
+![EduRobot](https://github.com/AAbella7529/AAbella7529/assets/158771536/ba2386e3-63aa-4dc7-8115-30c466b448a9)
+
+
 
 
 
