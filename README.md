@@ -9,7 +9,7 @@ Looking to transition in AI or Cyber Security and unlock my Tech Career Potentia
 
 My purpose is to gain skills and experience in this field. I enjoy studying and learning. 
 
-Future-proof my IT skills in the Digital Age / Digital Transformation, The Internet of Things and AI - Artificial Intelligence.
+To future-proof my IT skills in the Digital Age / Digital Transformation, The Internet of Things and AI - Artificial Intelligence.
 
 I have a keen interest in Cyber Security and Web Design.
 
