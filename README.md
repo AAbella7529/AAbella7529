@@ -1,4 +1,4 @@
-![HEllo](https://github.com/AAbella7529/AAbella7529/assets/158771536/93de5ed6-9ca2-448a-924c-90841e84172c) 👋
+![HEllo](https://github.com/AAbella7529/AAbella7529/assets/158771536/93de5ed6-9ca2-448a-924c-90841e84172c) 
 
 
 Thanks for following. 
