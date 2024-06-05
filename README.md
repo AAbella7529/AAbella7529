@@ -5,9 +5,9 @@
 
 I am a tech and AI enthusiast's currently using Github and Discord for my coding and cyber security course and I am learning new things.
 
-My purpose is to gain skills and experience in this field. I enjoy studying and learning. 
+Looking to transition in AI or Cyber Security and unlock my Tech Career Potential.
 
-Looking to transition in AI or Cyber Security and unlock my Tech Career Potential. 
+My purpose is to gain skills and experience in this field. I enjoy studying and learning. 
 
 Future-proof my IT skills in the Digital Age / Digital Transformation, The Internet of Things and AI - Artificial Intelligence.
 
