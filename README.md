@@ -3,13 +3,13 @@
 
 Thanks for following. 
 
-I am a tech enthusiast's currently using Github and Discord for my coding and cyber security course and I am learning new things.
+I am an AI and tech enthusiast's currently using Github and Discord for my coding and cyber security course and I am learning new things.
 
 My purpose is to gain skills and experience in this field. I enjoy studying and learning.
 
 Future-proofing my IT skills in the Digital Age / Digital Transformation, The Internet of Things and AI - Artificial Intelligence.
 
-I have a keen interest in AI and Web Design.
+I have a keen interest in AI, Cyber Security and Web Design.
 
 ![EduRobot](https://github.com/AAbella7529/AAbella7529/assets/158771536/ba2386e3-63aa-4dc7-8115-30c466b448a9)
 
