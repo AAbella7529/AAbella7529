@@ -5,7 +5,7 @@
 
 💻 I am a tech and AI enthusiast's currently busy upskilling / reskilling in Coding, AI and Cyber Security, and always love to learn.
 
-Looking to transition into "AI or Cyber Security" and unlock my Tech Career Potential.
+:zap: Looking to transition into "AI or Cyber Security" and unlock my Tech Career Potential.
 
 :rocket: My purpose is to gain skills and experience in this field to future-proof my IT skills in the Digital Age, Digital Transformation, The Internet of Things and Artificial Intelligence.
 
