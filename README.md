@@ -13,7 +13,7 @@ My purpose is to gain skills and experience in this field.
 
 For coding I currently used: Python, Linux, Shell Bash Scripting and SQL. 
 
-I have a keen interest in Cyber Security, Creativity and Web Design.
+I have a keen interest in Creativity and Web Design.
 
 In my spare time I like to teach and empower others about Cyber Security and Coding. 
 
