@@ -5,7 +5,7 @@
 
 I am a tech and AI enthusiast's currently busy upskilling / reskilling in Coding, AI and Cyber Security, and always love to learn.
 
-Looking to transition in AI or Cyber Security and unlock my Tech Career Potential.
+Looking to transition in "AI or Cyber Security" and unlock my Tech Career Potential.
 
 My purpose is to gain skills and experience in this field. 
 
@@ -15,7 +15,7 @@ For coding I currently used: Python, Linux, Shell Bash Scripting and SQL.
 
 I have a keen interest in Creativity and Web Design.
 
-In my spare time I like to teach and empower others about Cyber Security and Coding. 
+In my spare time I like to teach and empower others about "Cyber Security and Coding". 
 
 :tada: Looking forward to interact with tech minded people in Github and Discord. 
 
