@@ -3,7 +3,7 @@
 
 👋  Thanks for following. 
 
-I am a tech and AI enthusiast's currently busy upskilling / reskilling in Coding, AI and Cyber Security, and always love to learn.
+💻 I am a tech and AI enthusiast's currently busy upskilling / reskilling in Coding, AI and Cyber Security, and always love to learn.
 
 Looking to transition into "AI or Cyber Security" and unlock my Tech Career Potential.
 
