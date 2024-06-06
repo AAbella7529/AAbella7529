@@ -13,7 +13,7 @@ For coding I currently used: Python, Linux, Shell Bash Scripting and SQL.
 
 I have a keen interest in Creativity and Web Design.
 
-In my spare time I like to teach and empower others about "Cyber Security and Coding". 
+:desktop: In my spare time I like to teach and empower others about "Cyber Security and Coding". 
 
 :pushpin: Looking forward to interact with tech minded people in Github and Discord. :tada:
 
