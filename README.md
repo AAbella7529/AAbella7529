@@ -19,7 +19,7 @@ I have a keen interest in Creativity and Web Design.
 
 📫 Let's get connected! 
 
-![EduRobot](https://github.com/AAbella7529/AAbella7529/assets/158771536/55d2f264-193a-4aa2-a747-a320ef170f53)
+![Typo1](https://github.com/AAbella7529/AAbella7529/assets/158771536/ae8c4f0a-aace-4886-90b8-02ab216543b7)
 
 
 
