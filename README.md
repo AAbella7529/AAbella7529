@@ -7,7 +7,7 @@ I am a tech and AI enthusiast's currently busy upskilling / reskilling in Coding
 
 Looking to transition in AI or Cyber Security and unlock my Tech Career Potential.
 
-My purpose is to gain skills and experience in this field. I enjoy studying and learning. 
+My purpose is to gain skills and experience in this field. 
 
 :rocket: To future-proof my IT skills in the Digital Age / Digital Transformation, The Internet of Things and Artificial Intelligence.
 
