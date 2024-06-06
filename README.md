@@ -20,7 +20,8 @@ I have a keen interest in Creativity and Web Design.
 
 📫 Let's get connected! 
 
-![Typo1](https://github.com/AAbella7529/AAbella7529/assets/158771536/ae8c4f0a-aace-4886-90b8-02ab216543b7)
+![Typo2](https://github.com/AAbella7529/AAbella7529/assets/158771536/69e80b83-f787-495d-8764-caa7109343b6)
+
 
 
 
