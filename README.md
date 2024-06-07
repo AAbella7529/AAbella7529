@@ -12,7 +12,9 @@
 
 For coding I currently used: Python, Linux, Shell Bash Scripting, SQL and Command Prompt. 
 
-I have a keen interest in Creativity and Web Design. ![Create3](https://github.com/AAbella7529/AAbella7529/assets/158771536/496bb986-3156-4389-afb8-ec557d83a40a)
+I have a keen interest in Creativity and Web Design. 
+
+![Create3](https://github.com/AAbella7529/AAbella7529/assets/158771536/496bb986-3156-4389-afb8-ec557d83a40a)
 
 :books:  In my spare time I like to teach and empower others about "Cyber Security and Coding". 
 
