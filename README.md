@@ -10,7 +10,7 @@
 
 :rocket: My purpose is to gain skills and experience in this field to future-proof my IT skills in the Digital Age, Digital Transformation, The Internet of Things and Artificial Intelligence.
 
-For coding I currently used: Python, Linux, Shell Bash Scripting, SQL and Command Prompt. 
+For coding I currently used: Python, Linux, Shell Bash Scripting, SQL and PowerShell Prompt. 
 
 I have a keen interest in Creativity and Web Design. 
 
