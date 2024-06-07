@@ -2,7 +2,7 @@
 ![EduRobot](https://github.com/AAbella7529/AAbella7529/assets/158771536/fd796473-89cf-40c3-ad66-0aae12363aaf)
 
 
-👋 ** Thanks for following. **
+👋 Thanks for following. 
 
 💻 I am a tech and AI enthusiasts currently busy upskilling / reskilling in Coding, AI and Cyber Security, and always love to learn.
 
