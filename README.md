@@ -3,7 +3,7 @@
 
 👋, I'm Andrea Abellana
 
-💻 I am an AI and Tech enthusiasts currently busy upskilling / reskilling in Coding, AI and Cyber Security, and always love to learn.
+💻 As an AI and Tech enthusiasts I am currently busy upskilling / reskilling in Coding, AI and Cyber Security, and always love to learn.
 
 :zap: Looking to transition into "AI or Cyber Security" and unlock my Tech Career Potential.
 
