@@ -17,9 +17,9 @@
 
 :books:  In my spare time I like to teach and empower others about "Cyber Security and Coding". 
 
-:pushpin: I look forward to interact with tech minded people for inspiration.
+:pushpin: I look forward to interact with tech minded people for inspiration in Github and Discord. 
 
-📫 Let's get connected here in Github and Discord. 
+📫 Let's get connected!
 
 ![Typo2](https://github.com/AAbella7529/AAbella7529/assets/158771536/69e80b83-f787-495d-8764-caa7109343b6)
 
