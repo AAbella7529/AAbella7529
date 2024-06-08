@@ -1,7 +1,7 @@
 
 ![EduRobot](https://github.com/AAbella7529/AAbella7529/assets/158771536/fd796473-89cf-40c3-ad66-0aae12363aaf)
 
-👋, I'm Andrea Abellana, an AI and tech enthusiasts
+👋, I'm Andrea Abellana, an AI and tech enthusiasts.
 
 💻 I am currently upskilling / reskilling in Coding, AI and Cyber Security, and always love to learn.
 
