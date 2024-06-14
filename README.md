@@ -17,7 +17,7 @@
 
 :books:  In my spare time I like to teach and empower others about "Cyber Security and Coding". 
 
-:pushpin: I look forward to interact with tech minded intellectuals for inspiration in Github and Discord. 
+:pushpin: I look forward to interact with liked-minded individuals for inspiration in Github and Discord. 
 
 📫 Let's get connected!
 
